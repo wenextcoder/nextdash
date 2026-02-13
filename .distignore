@@ -1,0 +1,36 @@
+# WordPress.org Distribution Ignore File
+# Files/folders to exclude from plugin zip
+
+# Development files
+node_modules/
+.git/
+.gitignore
+.vscode/
+.idea/
+*.log
+*.local
+
+# Source files (keep dist/ for production)
+src/
+*.ts
+*.tsx
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+tailwind.config.js
+postcss.config.js
+index.html
+
+# Build config
+package.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+
+# IDE files
+.DS_Store
+*.swp
+*.swo
+*~
+

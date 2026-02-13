@@ -1,0 +1,322 @@
+# Copyright (C) 2024 nextdash
+# This file is distributed under the same license as the NextDash plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: NextDash 1.10\n"
+"Report-Msgid-Bugs-To: https://nextdash.io/nextdash\n"
+"POT-Creation-Date: 2024-01-27 12:00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: nextdash.php:122
+msgid "NextDash requires WooCommerce to be installed and active."
+msgstr ""
+
+#: includes/class-nextdash-hooks.php:65
+#: includes/class-nextdash-template.php:112
+#: includes/class-nextdash-assets.php:192
+msgid "Overview"
+msgstr ""
+
+#: includes/class-nextdash-hooks.php:71
+#: includes/class-nextdash-template.php:113
+#: includes/class-nextdash-assets.php:193
+msgid "Orders"
+msgstr ""
+
+#: includes/class-nextdash-hooks.php:77
+#: includes/class-nextdash-template.php:114
+#: includes/class-nextdash-assets.php:194
+msgid "Downloads"
+msgstr ""
+
+#: includes/class-nextdash-hooks.php:83
+#: includes/class-nextdash-account.php:69
+#: includes/class-nextdash-template.php:117
+#: includes/class-nextdash-assets.php:197
+msgid "Wishlist"
+msgstr ""
+
+#: includes/class-nextdash-hooks.php:89
+#: includes/class-nextdash-template.php:115
+#: includes/class-nextdash-assets.php:195
+msgid "Addresses"
+msgstr ""
+
+#: includes/class-nextdash-hooks.php:95
+#: includes/class-nextdash-template.php:116
+#: includes/class-nextdash-assets.php:196
+msgid "Account Details"
+msgstr ""
+
+#: includes/class-nextdash-template.php:118
+#: includes/class-nextdash-assets.php:198
+msgid "Logout"
+msgstr ""
+
+#: includes/class-nextdash-template.php:119
+#: includes/class-nextdash-assets.php:199
+msgid "Welcome back, %s!"
+msgstr ""
+
+#: includes/class-nextdash-template.php:120
+#: includes/class-nextdash-assets.php:200
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses, and edit your password and account details."
+msgstr ""
+
+#: includes/class-nextdash-template.php:121
+#: includes/class-nextdash-assets.php:201
+msgid "Total Orders"
+msgstr ""
+
+#: includes/class-nextdash-template.php:122
+#: includes/class-nextdash-assets.php:202
+msgid "Total Spent"
+msgstr ""
+
+#: includes/class-nextdash-template.php:123
+#: includes/class-nextdash-assets.php:203
+msgid "Recent Orders"
+msgstr ""
+
+#: includes/class-nextdash-template.php:124
+#: includes/class-nextdash-assets.php:204
+msgid "All time"
+msgstr ""
+
+#: includes/class-nextdash-template.php:125
+#: includes/class-nextdash-assets.php:205
+msgid "Last 5 orders"
+msgstr ""
+
+#: includes/class-nextdash-template.php:126
+#: includes/class-nextdash-assets.php:206
+msgid "View All Orders"
+msgstr ""
+
+#: includes/class-nextdash-template.php:127
+#: includes/class-nextdash-assets.php:207
+msgid "No orders yet"
+msgstr ""
+
+#: includes/class-nextdash-template.php:128
+#: includes/class-nextdash-assets.php:208
+msgid "Order History"
+msgstr ""
+
+#: includes/class-nextdash-template.php:129
+#: includes/class-nextdash-assets.php:209
+msgid "Order Details"
+msgstr ""
+
+#: includes/class-nextdash-template.php:130
+#: includes/class-nextdash-assets.php:210
+msgid "Download"
+msgstr ""
+
+#: includes/class-nextdash-template.php:131
+#: includes/class-nextdash-assets.php:211
+msgid "Access your downloadable products"
+msgstr ""
+
+#: includes/class-nextdash-template.php:132
+#: includes/class-nextdash-assets.php:212
+msgid "No downloads available"
+msgstr ""
+
+#: includes/class-nextdash-template.php:133
+#: includes/class-nextdash-assets.php:213
+msgid "Billing Address"
+msgstr ""
+
+#: includes/class-nextdash-template.php:134
+#: includes/class-nextdash-assets.php:214
+msgid "Shipping Address"
+msgstr ""
+
+#: includes/class-nextdash-template.php:135
+#: includes/class-nextdash-assets.php:215
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-nextdash-template.php:136
+#: includes/class-nextdash-assets.php:216
+msgid "Update Account"
+msgstr ""
+
+#: includes/class-nextdash-template.php:137
+#: includes/class-nextdash-assets.php:217
+msgid "Search products..."
+msgstr ""
+
+#: includes/class-nextdash-template.php:138
+#: includes/class-nextdash-assets.php:218
+msgid "Go to Home"
+msgstr ""
+
+#: includes/class-nextdash-assets.php:164
+msgid "NextDash: Production build files are missing. Please rebuild the plugin or contact support."
+msgstr ""
+
+#: includes/class-nextdash-settings.php:32
+msgid "NextDash Settings"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:33
+msgid "NextDash"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:72
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:87
+msgid "Dashboard Logo"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:100
+msgid "No logo selected"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:104
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:108
+msgid "Remove Logo"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:113
+msgid "Upload a logo to display in the dashboard sidebar. Recommended size: 200x60px"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:122
+msgid "Display Mode"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:132
+msgid "Full Screen"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:136
+msgid "Dashboard takes entire screen (no WordPress header/footer)"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:145
+msgid "Enable NextDash"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:158
+msgid "Replace default WooCommerce My Account page with NextDash dashboard"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:167
+msgid "Dashboard Template"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:173
+msgid "Modern"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:177
+msgid "Choose dashboard template style"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:186
+msgid "Primary Color"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:200
+msgid "Choose the primary color for buttons, links, and active states in the dashboard"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:209
+msgid "Theme Mode"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:215
+msgid "Light"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:218
+msgid "Dark"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:221
+msgid "Auto (System)"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:225
+msgid "Choose color theme for the dashboard"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:233
+msgid "Dashboard Sections"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:242
+msgid "Overview"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:250
+msgid "Orders"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:258
+msgid "Downloads"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:266
+msgid "Addresses"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:274
+msgid "Account Details"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:282
+msgid "Wishlist"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:286
+msgid "Select which sections to show in the dashboard"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:289
+msgid "Note:"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:289
+msgid "Wishlist feature currently supports YITH WooCommerce Wishlist plugin only."
+msgstr ""
+
+#: includes/class-nextdash-settings.php:296
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:302
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:303
+msgid "Use this shortcode to display the dashboard anywhere:"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:306
+msgid "You can add this shortcode to any page or post. When auto-replace is enabled, it also replaces the WooCommerce My Account page automatically."
+msgstr ""
+
+#: includes/class-nextdash-settings.php:380
+msgid "Security check failed"
+msgstr ""
+
+#: includes/class-nextdash-settings.php:385
+msgid "You do not have permission to access this page"
+msgstr ""
+

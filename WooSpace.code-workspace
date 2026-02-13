@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ti-woocommerce-wishlist"
+		},
+		{
+			"path": "../woo-smart-wishlist"
+		},
+		{
+			"path": "../yith-woocommerce-wishlist"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ruleset name="NextDash">
+	<description>PHP_CodeSniffer configuration for NextDash plugin</description>
+	
+	<!-- Include WordPress coding standards -->
+	<config name="minimum_supported_wp_version" value="5.8"/>
+	
+	<!-- Exclude WordPress.WP.I18n.TextDomainMismatch rule -->
+	<!-- Text domain 'nextdash' is lowercase per WordPress.org requirements -->
+	<!-- Plugin name 'NextDash' is capitalized, which causes false positives -->
+	<rule ref="WordPress">
+		<exclude name="WordPress.WP.I18n.TextDomainMismatch"/>
+	</rule>
+</ruleset>
+

@@ -1,0 +1,265 @@
+# Bengali (Bangladesh) translation for NextDash
+# Copyright (C) 2024 nextdash
+# This file is distributed under the same license as the NextDash plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: NextDash 1.10\n"
+"Report-Msgid-Bugs-To: https://nextdash.io/nextdash\n"
+"POT-Creation-Date: 2024-01-27 12:00:00+0000\n"
+"PO-Revision-Date: 2024-01-27 12:00:00+0000\n"
+"Last-Translator: nextdash <support@nextdash.io>\n"
+"Language-Team: Bengali\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: nextdash.php:122
+msgid "NextDash requires WooCommerce to be installed and active."
+msgstr "NextDash-এর জন্য WooCommerce ইনস্টল এবং সক্রিয় থাকা প্রয়োজন।"
+
+#: includes/class-nextdash-hooks.php:65
+msgid "Overview"
+msgstr "ওভারভিউ"
+
+#: includes/class-nextdash-hooks.php:71
+msgid "Orders"
+msgstr "অর্ডার"
+
+#: includes/class-nextdash-hooks.php:77
+msgid "Downloads"
+msgstr "ডাউনলোড"
+
+#: includes/class-nextdash-hooks.php:83
+msgid "Wishlist"
+msgstr "পছন্দের তালিকা"
+
+#: includes/class-nextdash-hooks.php:89
+msgid "Addresses"
+msgstr "ঠিকানা"
+
+#: includes/class-nextdash-hooks.php:95
+msgid "Account Details"
+msgstr "অ্যাকাউন্ট বিবরণ"
+
+#: includes/class-nextdash-template.php:118
+msgid "Logout"
+msgstr "লগআউট"
+
+#: includes/class-nextdash-template.php:119
+msgid "Welcome back, %s!"
+msgstr "পুনরায় স্বাগতম, %s!"
+
+#: includes/class-nextdash-template.php:120
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses, and edit your password and account details."
+msgstr "আপনার অ্যাকাউন্ট ড্যাশবোর্ড থেকে আপনি আপনার সাম্প্রতিক অর্ডার দেখতে, আপনার শিপিং এবং বিলিং ঠিকানা পরিচালনা করতে এবং আপনার পাসওয়ার্ড এবং অ্যাকাউন্ট বিবরণ সম্পাদনা করতে পারেন।"
+
+#: includes/class-nextdash-template.php:121
+msgid "Total Orders"
+msgstr "মোট অর্ডার"
+
+#: includes/class-nextdash-template.php:122
+msgid "Total Spent"
+msgstr "মোট খরচ"
+
+#: includes/class-nextdash-template.php:123
+msgid "Recent Orders"
+msgstr "সাম্প্রতিক অর্ডার"
+
+#: includes/class-nextdash-template.php:124
+msgid "All time"
+msgstr "সব সময়"
+
+#: includes/class-nextdash-template.php:125
+msgid "Last 5 orders"
+msgstr "শেষ ৫টি অর্ডার"
+
+#: includes/class-nextdash-template.php:126
+msgid "View All Orders"
+msgstr "সব অর্ডার দেখুন"
+
+#: includes/class-nextdash-template.php:127
+msgid "No orders yet"
+msgstr "এখনও কোন অর্ডার নেই"
+
+#: includes/class-nextdash-template.php:128
+msgid "Order History"
+msgstr "অর্ডার ইতিহাস"
+
+#: includes/class-nextdash-template.php:129
+msgid "Order Details"
+msgstr "অর্ডার বিবরণ"
+
+#: includes/class-nextdash-template.php:130
+msgid "Download"
+msgstr "ডাউনলোড"
+
+#: includes/class-nextdash-template.php:131
+msgid "Access your downloadable products"
+msgstr "আপনার ডাউনলোডযোগ্য পণ্যগুলি অ্যাক্সেস করুন"
+
+#: includes/class-nextdash-template.php:132
+msgid "No downloads available"
+msgstr "কোন ডাউনলোড উপলব্ধ নেই"
+
+#: includes/class-nextdash-template.php:133
+msgid "Billing Address"
+msgstr "বিলিং ঠিকানা"
+
+#: includes/class-nextdash-template.php:134
+msgid "Shipping Address"
+msgstr "শিপিং ঠিকানা"
+
+#: includes/class-nextdash-template.php:135
+msgid "Save Changes"
+msgstr "পরিবর্তনগুলি সংরক্ষণ করুন"
+
+#: includes/class-nextdash-template.php:136
+msgid "Update Account"
+msgstr "অ্যাকাউন্ট আপডেট করুন"
+
+#: includes/class-nextdash-template.php:137
+msgid "Search products..."
+msgstr "পণ্য খুঁজুন..."
+
+#: includes/class-nextdash-template.php:138
+msgid "Go to Home"
+msgstr "হোমে যান"
+
+#: includes/class-nextdash-assets.php:164
+msgid "NextDash: Production build files are missing. Please rebuild the plugin or contact support."
+msgstr "NextDash: প্রোডাকশন বিল্ড ফাইল অনুপস্থিত। অনুগ্রহ করে প্লাগইনটি পুনরায় তৈরি করুন বা সহায়তার সাথে যোগাযোগ করুন।"
+
+#: includes/class-nextdash-settings.php:32
+msgid "NextDash Settings"
+msgstr "NextDash সেটিংস"
+
+#: includes/class-nextdash-settings.php:33
+msgid "NextDash"
+msgstr "nextdash"
+
+#: includes/class-nextdash-settings.php:72
+msgid "Settings saved successfully!"
+msgstr "সেটিংস সফলভাবে সংরক্ষণ করা হয়েছে!"
+
+#: includes/class-nextdash-settings.php:87
+msgid "Dashboard Logo"
+msgstr "ড্যাশবোর্ড লোগো"
+
+#: includes/class-nextdash-settings.php:100
+msgid "No logo selected"
+msgstr "কোন লোগো নির্বাচন করা হয়নি"
+
+#: includes/class-nextdash-settings.php:104
+msgid "Upload Logo"
+msgstr "লোগো আপলোড করুন"
+
+#: includes/class-nextdash-settings.php:108
+msgid "Remove Logo"
+msgstr "লোগো সরান"
+
+#: includes/class-nextdash-settings.php:113
+msgid "Upload a logo to display in the dashboard sidebar. Recommended size: 200x60px"
+msgstr "ড্যাশবোর্ড সাইডবারে প্রদর্শনের জন্য একটি লোগো আপলোড করুন। প্রস্তাবিত আকার: 200x60px"
+
+#: includes/class-nextdash-settings.php:122
+msgid "Display Mode"
+msgstr "প্রদর্শন মোড"
+
+#: includes/class-nextdash-settings.php:132
+msgid "Full Screen"
+msgstr "পূর্ণ স্ক্রীন"
+
+#: includes/class-nextdash-settings.php:136
+msgid "Dashboard takes entire screen (no WordPress header/footer)"
+msgstr "ড্যাশবোর্ড সম্পূর্ণ স্ক্রীন নেয় (কোন WordPress হেডার/ফুটার নেই)"
+
+#: includes/class-nextdash-settings.php:145
+msgid "Enable NextDash"
+msgstr "NextDash সক্রিয় করুন"
+
+#: includes/class-nextdash-settings.php:158
+msgid "Replace default WooCommerce My Account page with NextDash dashboard"
+msgstr "ডিফল্ট WooCommerce My Account পৃষ্ঠাটিকে NextDash ড্যাশবোর্ড দিয়ে প্রতিস্থাপন করুন"
+
+#: includes/class-nextdash-settings.php:167
+msgid "Dashboard Template"
+msgstr "ড্যাশবোর্ড টেমপ্লেট"
+
+#: includes/class-nextdash-settings.php:173
+msgid "Modern"
+msgstr "আধুনিক"
+
+#: includes/class-nextdash-settings.php:177
+msgid "Choose dashboard template style"
+msgstr "ড্যাশবোর্ড টেমপ্লেট স্টাইল নির্বাচন করুন"
+
+#: includes/class-nextdash-settings.php:186
+msgid "Primary Color"
+msgstr "প্রাথমিক রঙ"
+
+#: includes/class-nextdash-settings.php:200
+msgid "Choose the primary color for buttons, links, and active states in the dashboard"
+msgstr "ড্যাশবোর্ডে বোতাম, লিঙ্ক এবং সক্রিয় অবস্থার জন্য প্রাথমিক রঙ নির্বাচন করুন"
+
+#: includes/class-nextdash-settings.php:209
+msgid "Theme Mode"
+msgstr "থিম মোড"
+
+#: includes/class-nextdash-settings.php:215
+msgid "Light"
+msgstr "হালকা"
+
+#: includes/class-nextdash-settings.php:218
+msgid "Dark"
+msgstr "অন্ধকার"
+
+#: includes/class-nextdash-settings.php:221
+msgid "Auto (System)"
+msgstr "অটো (সিস্টেম)"
+
+#: includes/class-nextdash-settings.php:225
+msgid "Choose color theme for the dashboard"
+msgstr "ড্যাশবোর্ডের জন্য রঙ থিম নির্বাচন করুন"
+
+#: includes/class-nextdash-settings.php:233
+msgid "Dashboard Sections"
+msgstr "ড্যাশবোর্ড বিভাগ"
+
+#: includes/class-nextdash-settings.php:286
+msgid "Select which sections to show in the dashboard"
+msgstr "ড্যাশবোর্ডে কোন বিভাগগুলি দেখাতে হবে তা নির্বাচন করুন"
+
+#: includes/class-nextdash-settings.php:289
+msgid "Note:"
+msgstr "নোট:"
+
+#: includes/class-nextdash-settings.php:289
+msgid "Wishlist feature currently supports YITH WooCommerce Wishlist plugin only."
+msgstr "পছন্দের তালিকা বৈশিষ্ট্যটি বর্তমানে শুধুমাত্র YITH WooCommerce Wishlist প্লাগইন সমর্থন করে।"
+
+#: includes/class-nextdash-settings.php:296
+msgid "Save Settings"
+msgstr "সেটিংস সংরক্ষণ করুন"
+
+#: includes/class-nextdash-settings.php:302
+msgid "Shortcode"
+msgstr "শর্টকোড"
+
+#: includes/class-nextdash-settings.php:303
+msgid "Use this shortcode to display the dashboard anywhere:"
+msgstr "যেকোনো জায়গায় ড্যাশবোর্ড প্রদর্শনের জন্য এই শর্টকোড ব্যবহার করুন:"
+
+#: includes/class-nextdash-settings.php:306
+msgid "You can add this shortcode to any page or post. When auto-replace is enabled, it also replaces the WooCommerce My Account page automatically."
+msgstr "আপনি এই শর্টকোডটি যেকোনো পৃষ্ঠা বা পোস্টে যোগ করতে পারেন। যখন অটো-রিপ্লেস সক্রিয় থাকে, এটি স্বয়ংক্রিয়ভাবে WooCommerce My Account পৃষ্ঠাকেও প্রতিস্থাপন করে।"
+
+#: includes/class-nextdash-settings.php:380
+msgid "Security check failed"
+msgstr "নিরাপত্তা পরীক্ষা ব্যর্থ হয়েছে"
+
+#: includes/class-nextdash-settings.php:385
+msgid "You do not have permission to access this page"
+msgstr "আপনার এই পৃষ্ঠা অ্যাক্সেস করার অনুমতি নেই"
+
