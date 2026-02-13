@@ -27,10 +27,7 @@ A modern, React-powered customer dashboard for WooCommerce that replaces the def
 
 ### WooCommerce Compatibility
 
-✅ **HPOS Compatible** - Fully compatible with WooCommerce High-Performance Order Storage (Custom Order Tables)
-
 ✅ **WooCommerce Blocks** - Compatible with Cart & Checkout blocks
-
 ✅ **YITH WooCommerce Wishlist** - Fully compatible with YITH WooCommerce Wishlist plugin. Wishlist items are seamlessly integrated into the dashboard.
 
 This plugin declares compatibility with all WooCommerce features and follows WooCommerce coding standards.
@@ -233,8 +230,8 @@ add_filter('nextdash_dashboard_data', function($data) {
 ## Support
 
 For issues, questions, or feature requests:
-- GitHub Issues: [Your Repository URL]
-- Documentation: [Your Docs URL]
+- GitHub Issues: [https://github.com/wenextcoder/nextdash/issues]
+
 
 ## Contributing
 
