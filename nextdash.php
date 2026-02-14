@@ -3,7 +3,7 @@
  * Plugin Name: NextDash - Modern Customer Dashboard
  * Plugin URI: https://nextdash.io
  * Description: A modern, React-powered customer dashboard for WooCommerce that replaces the default My Account page
- * Version: 1.1.0
+ * Version: 1.0.0
  * Author: wenextcoder
  * Author URI: https://wenextcoder.com
  * License: GPL v2 or later
@@ -25,7 +25,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Define plugin constants
-define('NEXTDASH_VERSION', '1.1.0');
+define('NEXTDASH_VERSION', '1.0.0');
 define('NEXTDASH_PLUGIN_FILE', __FILE__);
 define('NEXTDASH_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('NEXTDASH_PLUGIN_URL', plugin_dir_url(__FILE__));

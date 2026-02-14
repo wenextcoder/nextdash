@@ -260,14 +260,14 @@ class NextDash_Settings {
                                 </th>
                                 <td>
                                     <?php
-                                    $primary_color = isset($settings['primary_color']) ? $settings['primary_color'] : '#3b82f6';
+                                    $primary_color = isset($settings['primary_color']) ? $settings['primary_color'] : '#ff6600';
                                     ?>
                                     <input type="text" 
                                            name="nextdash_settings[primary_color]" 
                                            id="nextdash_primary_color" 
                                            value="<?php echo esc_attr($primary_color); ?>"
                                            class="nextdash-color-picker"
-                                           data-default-color="#3b82f6">
+                                           data-default-color="#ff6600">
                                     <p class="description">
                                         <?php esc_html_e('Choose the primary color for buttons, links, and active states in the dashboard', 'nextdash'); ?>
                                     </p>

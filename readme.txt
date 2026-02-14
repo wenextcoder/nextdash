@@ -4,7 +4,7 @@ Tags: woocommerce, customer dashboard, my account, react, orders
 Requires at least: 5.8
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -181,11 +181,7 @@ Yes. Wishlist functionality integrates YITH WooCommerce Wishlist.
 
 == Changelog ==
 
-= 1.1.0 - 2025-02-08 =
-* Updated author information
-* Fixed WordPress.org compliance issues
-
-= 1.0.0 - 2024-12-17 =
+= 1.0.0 - 2026-02-14 =
 * Initial release
 * React-based WooCommerce customer dashboard
 * Order management and order details
@@ -196,10 +192,6 @@ Yes. Wishlist functionality integrates YITH WooCommerce Wishlist.
 
 
 == Upgrade Notice ==
-
-= 1.1.0 =
-Updated author information and fixed WordPress.org compliance issues.
-
 = 1.0.0 =
 Initial release of NextDash. Upgrade WooCommerce My Account with a modern customer dashboard.
 
